@@ -1,0 +1,1 @@
+button,h1{font-size:1em;font-weight:700;text-align:center}img{height:200px;width:150px}.gridArea{display:grid;grid-template-columns:2fr 3fr;grid-template-rows:auto;grid-template-areas:"image details";grid-gap:10px}.image{grid-area:image;background-color:#f0f8ff;text-align:center}.details{grid-area:details;background-color:#f0f8ff;text-align:center}.buttons{text-align:center}
